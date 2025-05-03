@@ -1,14 +1,9 @@
 {
-  "node_type": "FullNode",
-  "api_endpoint": "http://62.169.28.224:9000",
-  "description": {
-    "en": "UbNode is a reliable ICON node located in A Coruña, Spain, focused on network stability and transparency."
-  },
-  "location": {
-    "country": "ESP",
-    "city": "A Coruna"
-  },
   "name": "UbNode",
   "email": "ubaldoreg@gmail.com",
-  "website": "https://ubaldolp.github.io/ubnode"
+  "country": "ESP",
+  "city": "A Coruna",
+  "website": "https://ubaldolp.github.io/ubnode",
+  "p2pEndpoint": "62.169.28.224:7100",
+  "details": "https://ubaldolp.github.io/ubnode/details.json"
 }
